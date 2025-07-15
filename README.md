@@ -16,13 +16,16 @@ Your choices define your fate — from peaceful dreamer to Main Character Suprem
 
 💾 How to Play (for Everyone)
 1. Download the Game:
+(IF YOU USE PC/LAPTOPS)
 Click on delulu_world_game.exe file
+ELSE(MOBILE)
+ COPY SOURCE CODE AND RUN IN PYTHON COMPILER
 
-2. Run It:
+3. Run It:
 Double-click to launch.
 (Windows Defender might warn you — it's safe. Click “More Info” → “Run Anyway”.)
 
-3. Play It in the Terminal Window:
+4. Play It in the Terminal Window:
 You’ll be asked to enter your dreamy name
 Choose from multiple portals (1–5 or a secret path)
 
